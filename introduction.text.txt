@@ -1,0 +1,9 @@
+This project was done by Vasu Suresh (107119133) and Abhishek Paramesh (107119003) of EEE A. 
+Title - Bandpass Fitler Design.
+The file contains:
+
+1. Introudction.txt-- which has some information for smooth running of the programs.
+2. dsp_project.m --- matlab file, contains the simulation of bandpass filter.
+3. dsp_p.fda --- this file requires signal processing toolbox to run, contain FIR comparision. 
+4. dsp_report --- contains the project report in pdf format.
+5. demo.mkv --- contains the demostration video of the simulation of the project.
